@@ -35,5 +35,6 @@ Pre viac detailov, pozri [tu](./docs/detaily.md).
 
 Lorem Ipsum
 
+- Ja som Vladyslav
 - Ja som Vilo Kacala.
 
