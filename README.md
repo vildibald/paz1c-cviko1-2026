@@ -15,6 +15,7 @@ echo "Ahoj"
 > Poznamka: ahoj
 
 
+
 | Meno  | Priezvisko |
 |-------|------------|
 | Janka | Mala       |
@@ -35,4 +36,4 @@ Pre viac detailov, pozri [tu](./docs/detaily.md).
 
 Lorem Ipsum
 
-
+- Ja som Vladyslav
