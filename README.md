@@ -35,4 +35,5 @@ Pre viac detailov, pozri [tu](./docs/detaily.md).
 
 Lorem Ipsum
 
+- Ja som Vilo Kacala.
 
